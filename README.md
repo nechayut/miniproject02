@@ -1,1 +1,1 @@
-# miniproject02
+# miniproject02 : churn prediction
